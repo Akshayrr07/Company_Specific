@@ -37,4 +37,3 @@ if __name__ == "__main__":
     a = Solution()
     a.get_input()
     a.display()
-
